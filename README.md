@@ -1,3 +1,3 @@
-# cell-game-school
+# Cell Game (For School)
 
 Work in progress...
